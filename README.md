@@ -116,7 +116,6 @@ With these insights, AdventureWorks management can **optimize pricing strategies
 
 ## 📬 Contact
 👤 Author: **Mohan Kumar**  
-📧 Email: **mohan122000kumar@gmail.com**  
 
 
 ⭐ *Feel free to fork or star this repo if you found it useful!*  
